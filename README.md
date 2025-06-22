@@ -7,7 +7,6 @@
 - 🌱 I'm learning advanced programming techniques and best practices
 - 👯 I'm looking to collaborate on open-source projects or fintech tools
 - 🤔 I'm seeking help with backend performance optimization
-- 💬 Ask me about Python, data visualization, or Fedora Linux
 - 📫 How to reach me:
   - Telegram: [@gigcomm](https://t.me/gigcomm)
   - Email: lenovo27835@gmail.com
