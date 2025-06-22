@@ -1,6 +1,6 @@
 # Hi there 👋
 
-**gigcomm/gigcomm** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+<!--**gigcomm/gigcomm** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.-->
 
 ### About Me:
 - 🔭 I'm currently working on a project to consolidate financial assets in one place
