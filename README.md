@@ -10,4 +10,4 @@
 - 📫 How to reach me:
   - Telegram: [@gigcomm](https://t.me/gigcomm)
   - Email: lenovo27835@gmail.com
-- ⚡ Fun fact: I'm a genius... but only halfway (tolko na pol Fedora 😉)
+- ⚡ Fun fact: I'm a genius... but only (tolko na pol Fedora 😉)
