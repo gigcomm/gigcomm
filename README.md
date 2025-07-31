@@ -9,5 +9,5 @@
 - 🤔 I'm seeking help with backend performance optimization
 - 📫 How to reach me:
   - Telegram: [@gigcomm](https://t.me/gigcomm)
-  - Email: lenovo27835@gmail.com
+  - Email: iguly@yandex.ru
 - ⚡ Fun fact: I'm a genius... but only (tolko na pol Fedora 😉)
