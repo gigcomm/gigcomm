@@ -10,4 +10,4 @@
 - 📫 How to reach me:
   - Telegram: [@gigcomm](https://t.me/gigcomm)
   - Email: iguly@yandex.ru
-- ⚡ Fun fact: I'm a genius... but only (tolko na pol Fedora 😉)
+- ⚡ Fun fact: I'm a genius...
